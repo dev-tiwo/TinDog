@@ -1,2 +1,1 @@
-# TinDog
-# ThirdProject
+TinDog Starting Files
