@@ -10,6 +10,13 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 h3 {
   font-family: 'Montserrat-bold', sans-serif;
   font-weight: bold;
@@ -78,4 +85,36 @@ p {
 
 #features {
   padding: 7% 15%;
+}
+
+/* Testimonial Section */
+#testimonials {
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  height: auto;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press Seciton */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.press-foto {
+  width: 10%;
+  height: auto;
+  margin: 20px 20px 15px;
 }
